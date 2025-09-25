@@ -19,7 +19,7 @@ body{
 nav{
     margin: 0;
     padding: 0;
-    background: rgb(2, 107, 87);
+    background: #444;
     text-align: center;
     list-style: none;
 }
