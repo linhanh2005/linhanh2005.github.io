@@ -31,3 +31,8 @@
   cursor: pointer;
   text-transform: capitalize;
 }
+.menu li:hover {
+    background-color: #ff9;
+    font-weight: bold;
+    color:#f00;
+}
